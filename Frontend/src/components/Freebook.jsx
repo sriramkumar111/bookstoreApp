@@ -64,9 +64,7 @@ function Freebook() {
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
-            corporis nulla non suscipit, iure neque earum?
+          At The Book Nook, we believe in the power of stories to inspire, educate, and entertain. Our knowledgeable and passionate staff are always on hand to offer personalized recommendations, whether you’re searching for a gripping thriller, a heartwarming romance, or an enlightening non-fiction read.
           </p>
         </div>
 

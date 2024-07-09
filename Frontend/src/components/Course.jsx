@@ -25,13 +25,8 @@ function Course() {
             <span className="text-pink-500"> Here! :)</span>
           </h1>
           <p className="mt-12">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
-            assumenda? Repellendus, iste corrupti? Tempore laudantium
-            repellendus accusamus accusantium sed architecto odio, nisi expedita
-            quas quidem nesciunt debitis dolore non aspernatur praesentium
-            assumenda sint quibusdam, perspiciatis, explicabo sequi fugiat amet
-            animi eos aut. Nobis quisquam reiciendis sunt quis sed magnam
-            consequatur!
+          At The Book Nook, we believe in the power of stories to inspire, educate, and entertain. Our knowledgeable and passionate staff are always on hand to offer personalized recommendations, whether you’re searching for a gripping thriller, a heartwarming romance, or an enlightening non-fiction read.
+          Beyond just books, The Book Nook is a community hub. Join us for our regular events, including author signings, book clubs, and children's story hours. Enjoy a cup of coffee from our in-store café as you browse, or find a quiet corner to dive into your new favorite read.
           </p>
           <Link to="/">
             <button className="mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300">

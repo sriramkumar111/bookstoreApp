@@ -11,9 +11,7 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+            Welcome to The Book Nook, your haven for all things literary! Nestled in the heart of downtown, The Book Nook is a cozy, independent bookstore that caters to book lovers of all ages and tastes. Our carefully curated selection includes everything from the latest bestsellers and timeless classics to hidden gems and local authors.
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
